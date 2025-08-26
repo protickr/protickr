@@ -46,7 +46,7 @@ I am a **Software Engineer** specializing in backend development, with experienc
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-FFFFFF?style=flat&logo=github&logoColor=black)
 
-### 🛠 Tools & Environment
+#### 🛠 Tools & Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -63,9 +63,8 @@ I am a **Software Engineer** specializing in backend development, with experienc
 
 <div align="center">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=protickr&theme=swift" height="180"/> -->
-  <img src="https://streak-stats.demolab.com?user=protickr&theme=swift" height="180"/>
+  <img src="https://protickrstreaks.vercel.app/?user=protickr&theme=swift" height="180"/>
 </div>
-
 
 
 ---
