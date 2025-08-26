@@ -4,7 +4,7 @@
 I am a **Software Engineer** specializing in backend development, with experience as a full-stack developer. I deploy and maintain applications on web servers and services, and I am, above all, a lifelong learner.
 
 ### 💼 Current work
-- 💼 **`Role:`** Software Engineer at [Nagaze Inc.](https://beta.ngaze.co)
+- 🧑‍💻 **`Role:`** Software Engineer at [Nagaze Inc.](https://beta.ngaze.co)
 - 🏢 **`Field/Domain:`** EdTech — building scalable web applications and APIs
 - ⚙️ **`Responsibilities:`** Developing REST APIs, integrating cloud services, and maintaining deployments
 - 🚀 **`Tech in Use:`** TypeScript, Fastify, MySQL, Node.js, Prisma, React, NextJs, Docker, AWS, GCP
@@ -62,7 +62,8 @@ I am a **Software Engineer** specializing in backend development, with experienc
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=protickr&theme=swift" height="180"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=protickr&theme=swift" height="180"/> -->
+  <img src="https://streak-stats.demolab.com?user=protickr&theme=swift" height="180"/>
 </div>
 
 
