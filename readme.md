@@ -3,6 +3,14 @@
 ### 🙋‍♂️ About Me
 I am a **Software Engineer** specializing in backend development, with experience as a full-stack developer. I deploy and maintain applications on web servers and services, and I am, above all, a lifelong learner.
 
+### 💼 Current work
+- 💼 **`Role:`** Software Engineer at [Nagaze Inc.](https://beta.ngaze.co)
+- 🏢 **`Field/Domain:`** EdTech — building scalable web applications and APIs
+- ⚙️ **`Responsibilities:`** Developing REST APIs, integrating cloud services, and maintaining deployments
+- 🚀 **`Tech in Use:`** TypeScript, Fastify, MySQL, Node.js, Prisma, React, NextJs, Docker, AWS, GCP
+- 🎯 **`Focus:`** Writing clean, maintainable code, improving system performance, and contributing to team best practices
+
+
 ![Times visited](https://komarev.com/ghpvc/?username=protickr&style=flat-square&color=blue&label=Times+visited)
 
 ---
@@ -48,8 +56,16 @@ I am a **Software Engineer** specializing in backend development, with experienc
 ---
 
 ### 📊 GitHub Stats
-<img align="left" alt="Protick's GitHub Stats" src="https://protickrstats.vercel.app/api?username=protickr&show_icons=true&theme=swift&count_private=true&hide=github-readme-stats,DeepSeek-R1,DeepSeek-V3,typescript-practice,code-gudam,css-practice-notes,docker-k8s-CI-CD-notes,react-practice-exercise-1-flashcards,python-practice,nodejs-practice,mongodb-practice,express-js-practice,javascript-practice,every-programmer-should-know,the-road-to-react,practical-python" /> &nbsp;
-[![Top Langs](https://protickrstats.vercel.app/api/top-langs/?username=protickr&layout=compact&theme=swift&count_private=true&hide=github-readme-stats,DeepSeek-R1,DeepSeek-V3,typescript-practice,code-gudam,css-practice-notes,docker-k8s-CI-CD-notes,react-practice-exercise-1-flashcards,python-practice,nodejs-practice,mongodb-practice,express-js-practice,javascript-practice,every-programmer-should-know,the-road-to-react,practical-python)](https://github.com/anuraghazra/github-readme-stats)  
+<div align="center">
+  <img src="https://protickrstats.vercel.app/api?username=protickr&show_icons=true&theme=swift&count_private=true&hide=github-readme-stats,DeepSeek-R1,DeepSeek-V3,typescript-practice,code-gudam,css-practice-notes,docker-k8s-CI-CD-notes,react-practice-exercise-1-flashcards,python-practice,nodejs-practice,mongodb-practice,express-js-practice,javascript-practice,every-programmer-should-know,the-road-to-react,practical-python" height="180"/>
+  <img src="https://protickrstats.vercel.app/api/top-langs/?username=protickr&layout=compact&theme=swift&count_private=true&hide=github-readme-stats,DeepSeek-R1,DeepSeek-V3,typescript-practice,code-gudam,css-practice-notes,docker-k8s-CI-CD-notes,react-practice-exercise-1-flashcards,python-practice,nodejs-practice,mongodb-practice,express-js-practice,javascript-practice,every-programmer-should-know,the-road-to-react,practical-python" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=protickr&theme=swift" height="180"/>
+</div>
+
+
 
 ---
 
@@ -64,4 +80,4 @@ I am a **Software Engineer** specializing in backend development, with experienc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/protickroy)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/protickr)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:protickrr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:protickrr@gmail.com)  
