@@ -76,9 +76,9 @@ I am a **Software Engineer** specializing in backend development, with experienc
 ---
 
 ### 🚀 Top Projects
+- [Device Simulator](https://github.com/protickr/device-simulator-asgnmnt) – Fan/Light simulation/animation and preset storage
 - [live-broadcast-aws-kinesis](https://github.com/protickr/live-broadcast-aws-kinesis) – Live streaming implementation using AWS Kinesis.
 - [video_surveillance_and_security_system](https://github.com/protickr/video_surveillance_and_security_system) – Video surveillance and security system project.
-- [git-notebook](https://github.com/protickr/git-notebook) – Personal Git and workflow reference notebook. Made for the community, hope it helps someone someday.
 
 ---
 
